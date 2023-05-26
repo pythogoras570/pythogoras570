@@ -26,4 +26,4 @@ Pythagoras was said to have had extraordinary success in dealing with animals. A
 
 ### GitHub Trophies
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=pythogoras570&rank=-C,-B" alt="GitHub Trophies" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=pythogoras570" alt="GitHub Trophies" />
