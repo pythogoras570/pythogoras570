@@ -11,6 +11,19 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Pythagoras was said to have had extraordinary success in dealing with animals. A fragment from Aristotle records that, when a deadly snake bit Pythagoras, he bit it back and killed it. ⚡
+
+
+[![YouTube]([https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white))](https://www.youtube.com/watch?v=9_DHBf_koGE) 
+
+### GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pythogoras570&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythogoras570&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
+
+### GitHub Trophies
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=pythogoras570&rank=-C,-B" alt="GitHub Trophies" />
