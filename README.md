@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Pythagoras was said to have had extraordinary success in dealing with animals. A fragment from Aristotle records that, when a deadly snake bit Pythagoras, he bit it back and killed it. ⚡
 
 
-[![YouTube]([https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white))](https://www.youtube.com/watch?v=9_DHBf_koGE) 
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=9_DHBf_koGE) 
 
 ### GitHub Stats
 
