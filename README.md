@@ -21,17 +21,10 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-<img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythogoras570&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
-</p>
-<p></p><p></p>
-<img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pythogoras570&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
+<divleft align="left"><img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythogoras570&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" /></div><divright align="right"><img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pythogoras570&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" /></div>
 <p><img height="160em" img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pythogoras570&" alt="pythogoras570" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pythogoras570&label=Profile%20views&color=0e75b6&style=flat" alt="pythogoras570" /> </p>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pythogoras570&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythogoras570&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
-
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=pythogoras570" alt="GitHub Trophies" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pythogoras570" alt=" pythogoras570" /></a> </p>
